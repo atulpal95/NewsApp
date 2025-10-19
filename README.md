@@ -1,12 +1,36 @@
-# React + Vite
+# 📰 NewsApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive news application built with *React, **Vite, and **Bootstrap 5, using the **GNews API* to fetch real-time headlines.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Category-based news (e.g., Sports, Business, etc.)
+- Real-time news updates
+- Mobile-friendly responsive UI
+- Fast development with Vite
+- Hosted on Vercel
 
-## Expanding the ESLint configuration
+## 🧰 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React + Vite  
+- Bootstrap 5  
+- GNews API  
+- Vercel (Deployment)
+
+## ⚙ Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/atulpal95/NewsApp.git
+
+# Move into the project directory
+cd newsapp
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
+
+#Screen Shot
+<img width="1893" height="896" alt="image" src="https://github.com/user-attachments/assets/ad21eee0-21ef-4c2e-bb08-99d0ead1878a" />
