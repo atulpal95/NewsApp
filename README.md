@@ -16,6 +16,7 @@ A modern and responsive news application built with *React, **Vite, and **Bootst
 - Bootstrap 5  
 - GNews API  
 - Vercel (Deployment)
+- news-app-ochre-delta.vercel.app
 
 ## ⚙ Getting Started
 
